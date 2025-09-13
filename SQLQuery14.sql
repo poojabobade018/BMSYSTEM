@@ -1,0 +1,1 @@
+﻿create table WESTCATLOG(catid int,cuty nvarchar(max), rate nvarchar(max),upbt nvarchar(max) );

@@ -1,0 +1,1 @@
+﻿create table CATLOG(catid int,costnm nvarchar(max),barate nvarchar(max),svup nvarchar(max) );

@@ -1,0 +1,1 @@
+﻿create table FASHIONDEL(cusid int,cuname nvarchar(max),custype nvarchar(max));

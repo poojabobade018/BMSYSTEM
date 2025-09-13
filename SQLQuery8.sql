@@ -1,0 +1,1 @@
+﻿create table BILLDETAILS(bilno int,bildate date,cusid int,cusnm nvarchar(50),contact nvarchar(50),orderli nvarchar(max),totalam nvarchar(max),paymt nvarchar(max));

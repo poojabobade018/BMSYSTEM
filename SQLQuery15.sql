@@ -1,0 +1,1 @@
+﻿create table RATEDETL(cusid int,fname nvarchar(max),Brate nvarchar(max),linig nvarchar(max),tasels nvarchar(max),pipng nvarchar(max),les nvarchar(max),zipp nvarchar(max),pach nvarchar(max),cup nvarchar(max),fol nvarchar(max),pic nvarchar(max), net nvarchar(max),kuch nvarchar(max));

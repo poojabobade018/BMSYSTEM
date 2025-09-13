@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[RATEMASTERDEL] (
+    [sty]      NVARCHAR (MAX) NULL,
+	[cost]     NVARCHAR (MAX) NULL,
+    [costype]  NVARCHAR (MAX) NULL,
+    [liningc]  NVARCHAR (MAX) NULL,
+    [liningcr] NVARCHAR (MAX) NULL,
+    [linings]  NVARCHAR (MAX) NULL,
+    [backdes]  NVARCHAR (MAX) NULL,
+    [lesss]    NVARCHAR (MAX) NULL,
+    [lessm]    NVARCHAR (MAX) NULL,
+    [lessl]    NVARCHAR (MAX) NULL,
+    [tasselss] NVARCHAR (MAX) NULL,
+    [tasselsm] NVARCHAR (MAX) NULL,
+    [tasselsl] NVARCHAR (MAX) NULL,
+    [zips]     NVARCHAR (MAX) NULL,
+    [patchs]   NVARCHAR (MAX) NULL,
+    [patchm]   NVARCHAR (MAX) NULL,
+    [patchl]   NVARCHAR (MAX) NULL,
+    [cup]      NVARCHAR (MAX) NULL,
+    [follb]    NVARCHAR (MAX) NULL,
+    [netf]     NVARCHAR (MAX) NULL,
+    [kuchuone] NVARCHAR (MAX) NULL,
+    [kuchutwo] NVARCHAR (MAX) NULL
+);
+

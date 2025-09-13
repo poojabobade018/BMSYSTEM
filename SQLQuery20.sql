@@ -1,0 +1,1 @@
+﻿create table CLIENTS(cusid int,nm nvarchar(max),data date,fasid int,fasnm nvarchar(max),addt nvarchar(max),saret nvarchar(max));

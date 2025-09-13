@@ -1,0 +1,1 @@
+﻿create table CUSTOMERDETAIL(enquyid int, datte date,custname nvarchar(max),stye nvarchar(max),bottm nvarchar(max),fndesign nvarchar(max),bndesign nvarchar(max),sleevedes nvarchar(max),openingdes nvarchar(max),tasselsdes nvarchar(max),pipingdes nvarchar(max),liningdes nvarchar(max),cup nvarchar(max),sare nvarchar(max));

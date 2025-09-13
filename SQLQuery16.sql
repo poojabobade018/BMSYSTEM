@@ -1,0 +1,1 @@
+﻿create table CLIENT(cusid int,nm nvarchar(max),data date,fasid nvarchar(max),fasnm nvarchar(max));
